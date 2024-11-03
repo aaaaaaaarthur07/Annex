@@ -33,7 +33,7 @@ python Annex.py
 
 ##SETUP
 git clone https://github.com/aaaaaaaarthur07/Annex
-cd Aquaa
+cd Annex
 pip install -r requirements.txt
 python Annex.py
 
